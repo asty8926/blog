@@ -37,8 +37,13 @@ I'm looking for ways to make the process of gathering questions and answers more
 
 For now, I created a command that can be used by Moderators (and the Streamer of course) in their Chat, to provide a question, its answer and an optional tag.
 
-The current syntax looks like `!addq Question~Answer~Tag`.
-Example: `!addq What do you think of [...]~I think it's great in the current meta because [...]~[Some game name here]`
+The current syntax looks like:
+
+`!addq Question~Answer~Tag`.
+
+Example:
+
+`!addq What do you think of [...]~I think it's great in the current meta because [...]~[Some game name here]`
 
 When the command is used, the relevant information is added to a database:
 - The original question
