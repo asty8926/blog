@@ -1,3 +1,6 @@
+![](https://i.imgur.com/PS3DTiG.jpeg)
+# The fast food of our emotions
+
 Although today's hyper-connected society allows us to contact both a stranger on the other side of the planet and the person we hold most dear, it also standardizes our conversations in a certain way.
 
 Emojis. These little images that we see and use everywhere, in every situation, in every conversation, and with anyone.
